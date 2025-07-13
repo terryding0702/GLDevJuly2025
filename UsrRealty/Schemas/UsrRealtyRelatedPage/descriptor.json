@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b172d6c-7006-4f47-8c9b-3e6fdf27b6c3",
+    "Name": "UsrRealtyRelatedPage",
+    "ModifiedOnUtc": "\/Date(1752195220000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty (Page settings)",
+    "DependsOn": []
+  }
+}
