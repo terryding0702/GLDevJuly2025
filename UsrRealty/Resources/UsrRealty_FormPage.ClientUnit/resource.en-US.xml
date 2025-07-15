@@ -6,6 +6,16 @@
 			<Item Name="LocalizableStrings.addRecord_fhae0wu_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_nb9103e_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_xm80ky4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq ft" />
+			<Item Name="LocalizableStrings.ExpansionPanel_zimjnwm_title.Value" Value="Realty visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_vfq1n2u_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_456i84i_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_o76c2i5_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_qn8fkb6_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_pyq9ysu_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_o350a6f_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NumberInput_9ezbnju_label.Value" Value="Number" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
