@@ -11,7 +11,7 @@ namespace Terrasoft.Configuration
         {
             base.OnSaving(sender, e);
             Entity realty = (Entity)sender;
-            decimal price = realty.GetTypedColumnValue<decimal>(" ");
+            decimal price = realty.GetTypedColumnValue<decimal>("UsrPrice");
             if (price > 1000000000)
             {
                 e.IsCanceled = true;
